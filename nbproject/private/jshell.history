@@ -1,0 +1,26 @@
+VAR#>BigInteger n
+EXPRESSION#>n
+EXPRESSION#>x
+EXPRESSION#>n
+VAR#>BigInteger m = 8
+EXPRESSION#>n
+EXPRESSION#>m
+VAR#>BigInteger m = 10000000
+VAR#>n.intValue()
+EXPRESSION#>n.add((BigInteger) 8)
+VAR#>n.add(BigInteger.valueOf(8))
+EXPRESSION#>n
+VAR#>BigInteger n
+EXPRESSION#>n
+EXPRESSION#>x
+EXPRESSION#>n
+VAR#>BigInteger m = 8
+EXPRESSION#>n
+EXPRESSION#>m
+VAR#>BigInteger m = 10000000
+VAR#>n.intValue()
+EXPRESSION#>n.add((BigInteger) 8)
+VAR#>n.add(BigInteger.valueOf(8))
+EXPRESSION#>n
+VAR#>BigInteger n = BigInteger.valueOf(8);
+EXPRESSION#>n
